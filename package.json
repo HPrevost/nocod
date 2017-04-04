@@ -1,0 +1,22 @@
+{
+  "name": "nocod",
+  "version": "1.0.0",
+  "description": "WIS Automation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HPrevost/nocod.git"
+  },
+  "author": "Hervé PREVOST",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HPrevost/nocod/issues"
+  },
+  "homepage": "https://github.com/HPrevost/nocod#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
